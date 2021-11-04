@@ -1,0 +1,49 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: rgba(100, 139, 138, 0.425);
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    
+    text-decoration: none;
+    color:rgb(250, 111, 56)
+}
+
+img {
+    width: 300px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:rgb(142, 43, 255)
+}
+
+#menu {
+    list-style: none;
+}
+
+ul {
+    padding-left: 0;
+}
+
+ul li {
+    list-style-position: inside;
+}
+
+
+ol {
+    padding-left: 0;
+}
+
+ol li {
+    list-style-position: inside;
+}
